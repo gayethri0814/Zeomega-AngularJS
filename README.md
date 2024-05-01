@@ -1,1 +1,1 @@
-# Zeomega-AngularJS
+# Zeomega-AngularJS-ProductList
