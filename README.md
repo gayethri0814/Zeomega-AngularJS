@@ -16,6 +16,6 @@ This is a basic web application that uses AngularJS to build a list of items to 
 To run the JSON server locally, navigate to the folder, `products.json` file is present to use the following command:
 
 ```bash
-npx json-server@0.17.4 products.json -p 3001
+npx json-server@0.17.4 products.json -p 3000
 
 
