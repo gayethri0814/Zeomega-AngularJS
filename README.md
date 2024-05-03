@@ -13,7 +13,7 @@ This is a basic web application that uses AngularJS to build a list of items to 
 
 # Installation
 
-To run the JSON server locally, navigate to the `database` folder and use the following command:
+To run the JSON server locally, navigate to the folder, `products.json` file is present to use the following command:
 
 ```bash
 npx json-server@0.17.4 products.json -p 3001
