@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chair",
+      "unitCost": 150
+    },
+    {
+      "id": 2,
+      "name": "Sofa",
+      "unitCost": 220
+    },
+    {
+      "id": 3,
+      "name": "Mirror",
+      "unitCost": 350
+    },
+    {
+      "id": 4,
+      "name": "Table",
+      "unitCost": 550
+    },
+    {
+      "id": 5,
+      "name": "Marker",
+      "unitCost": 115
+    },
+    {
+      "id": 6,
+      "name": "Pouch",
+      "unitCost": 40
+    },
+    {
+      "id": 7,
+      "name": "Cot",
+      "unitCost": 1500
+    },
+    {
+      "id": 8,
+      "name": "Mat",
+      "unitCost": 80
+    }
+  ]
+}
