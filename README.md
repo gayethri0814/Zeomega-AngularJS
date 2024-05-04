@@ -13,6 +13,9 @@
 - Adjust quantities of items in the shopping cart.
 - Add new products to the product list.
 
+##Clone repository to your local using following link : 
+---> https://github.com/gayethri0814/Zeomega-AngularJS.git
+
 # Installation
 
 To run the JSON server locally, navigate to the folder, `products.json` file is present to use the following command:
