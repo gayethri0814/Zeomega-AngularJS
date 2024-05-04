@@ -1,13 +1,15 @@
-# Zeomega-AngularJS-ProductList
-# Shopping App
+# Zeomega-AngularJS--Products
+# Shopping App--Assignment
 
 ## Overview
-This is a basic web application that uses AngularJS to build a list of items to buy. Users can browse a list of products, add them to a shopping basket, modify the quantity, and remove them from the cart, users can also add new products to the list of shopping cart.
+--> This is a basic web application that uses AngularJS to build a list of items for a user to buy. 
+--> Users can search for their particular list of items, add them to shopping cart, can also modify the quantity, and remove them from the cart.
+--> Users can also add new products to the products available list.
 
 ## Features
-- Add products to a shopping cart.
+- Add products listed to a shopping cart.
 - Remove items from the shopping cart.
-- Search through a list of products.
+- Search for your particular item from list available.
 - Adjust quantities of items in the shopping cart.
 - Add new products to the product list.
 
